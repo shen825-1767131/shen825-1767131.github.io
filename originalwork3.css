@@ -1,0 +1,47 @@
+h2{
+    color: rgb(0, 255, 255);
+    font-size: 65px;
+    font-family: "Cambria, Cochin, Georgia, Times, 'Times New Roman', serif";
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+#start{
+    text-align: center;
+    font-family: ""'Times New Roman', Times, serif";
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 10px rgb(0, 0, 0);
+    background-color: rgb(143, 124, 248);
+}
+
+
+#love{
+    
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 15px;
+    border: solid 10px black;
+    background-color: rgb(127, 201, 219);
+}
+#apple{
+
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 10px black;
+    background-color: rgb(101, 103, 119);
+}
+
+#banana{
+
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 10px black;
+    background-color: rgb(136, 230, 175);
+}
